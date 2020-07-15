@@ -650,3 +650,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.15-03.51.41:701][599]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C89D4663-4511-FFF1-EE1B-2CBDF4BEA20E}
 [2020.07.15-03.52.28:589][524]SourceControl: fatal: D:/UE_4.23/Engine/Content: 'D:/UE_4.23/Engine/Content' is outside repository
 [2020.07.15-03.52.31:398][524]LogSlate: Window 'Submit Files' being destroyed
+[2020.07.15-03.55.28:153][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-03.55.28:399][533]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.15-03.55.28:432][533]LogAIModule: Creating AISystem for world GolpeEstado
+[2020.07.15-03.55.28:475][533]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/GolpeEstado.GolpeEstado
+[2020.07.15-03.55.28:532][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.07.15-03.55.28:570][533]Cmd: MAP LOAD FILE="C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Content/Maps/GolpeEstado.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.15-03.55.28:570][533]LightingResults: New page: Lighting Build
+[2020.07.15-03.55.28:571][533]LoadErrors: New page: Loading map: GolpeEstado.umap
+[2020.07.15-03.55.28:649][533]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-03.55.28:662][533]MapCheck: New page: Map Check
+[2020.07.15-03.55.28:662][533]LightingResults: New page: Lighting Build
+[2020.07.15-03.55.28:843][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.07.15-03.55.29:021][533]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.15-03.55.29:072][533]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.07.15-03.55.29:139][533]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.15-03.55.29:139][533]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2020.07.15-03.55.29:139][533]LogFileHelpers: Loading map 'GolpeEstado' took 0.606
+[2020.07.15-03.56.12:348][777]SourceControl: fatal: D:/UE_4.23/Engine/Content: 'D:/UE_4.23/Engine/Content' is outside repository
+[2020.07.15-03.56.32:303][777]LogSlate: Window 'Submit Files' being destroyed
+[2020.07.15-03.56.32:841][777]LogSourceControl: commit successful: [master c988041] Creacion Level GolpeEstado
+[2020.07.15-03.56.33:029][777]SourceControl: [master c988041] Creacion Level GolpeEstado
+[2020.07.15-03.56.33:029][777]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.07.15-03.56.33:029][777]SourceControl:  create mode 100644 Content/Maps/GolpeEstado.umap
+[2020.07.15-03.56.33:045][777]SourceControl: Commited [master c988041] Creacion Level GolpeEstado.
+[2020.07.15-03.57.25:569][671]LogEditorViewport: Clicking Background

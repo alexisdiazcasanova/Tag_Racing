@@ -643,3 +643,36 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.15-03.49.44:136][  2]LogAssetRegistry: Asset discovery search completed in 80.9460 seconds
 [2020.07.15-03.49.44:184][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.011138 seconds (found 0 objects)
 [2020.07.15-03.49.44:184][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.011268 seconds (updated 0 objects)
+[2020.07.15-03.59.22:027][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-03.59.33:353][315]LogSlate: Took 0.020009 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.15-03.59.35:219][315]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.15-04.00.00:156][692]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Maps/BP_Character.BP_Character
+[2020.07.15-04.00.02:132][692]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.07.15-04.00.05:825][692]LogRenderer: Reallocating scene render targets to support 1220x780 Format 9 NumSamples 1 (Frame:1).
+[2020.07.15-04.00.07:027][738]LogSlate: Took 0.052668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.15-04.00.08:570][796]BlueprintLog: New page: Compile BP_Character
+[2020.07.15-04.00.10:061][796]LogUObjectHash: Compacting FUObjectHashTables data took   8.82ms
+[2020.07.15-04.00.36:293][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.07.15-04.00.36:293][873]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.046
+[2020.07.15-04.00.36:317][873]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/BP_Character] ([1] browsable assets)...
+[2020.07.15-04.00.36:317][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/BP_Character]
+[2020.07.15-04.00.36:602][873]LogSavePackage: Moving 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Saved/BP_Character_Auto1C3F2A994471644D6CB4E8F9C1673301C.tmp' to 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Saved/Autosaves/Game/Maps/BP_Character_Auto1.uasset'
+[2020.07.15-04.00.36:647][873]LogFileHelpers: Auto-saving content packages took 0.351
+[2020.07.15-04.00.37:783][917]LogSlate: Took 0.050925 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.15-04.00.38:371][939]BlueprintLog: New page: Compile BP_Character
+[2020.07.15-04.00.38:649][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.07.15-04.00.39:157][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BP_Character" FILE="C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Content/Maps/BP_Character.uasset" SILENT=true
+[2020.07.15-04.00.39:188][949]LogSavePackage: Moving 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Saved/BP_CharacterFFEF110740E99976DA30BDB7F80B2F5E.tmp' to 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Content/Maps/BP_Character.uasset'
+[2020.07.15-04.00.40:678][  9]LogSlate: Window 'BP_Character' being destroyed
+[2020.07.15-04.00.40:691][  9]LogSlate: Window 'BP_Character' being destroyed
+[2020.07.15-04.00.40:740][  9]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-04.00.58:953][880]LogSlate: Window 'Source Control Login' being destroyed
+[2020.07.15-04.01.03:958][104]SourceControl: fatal: D:/UE_4.23/Engine/Content: 'D:/UE_4.23/Engine/Content' is outside repository
+[2020.07.15-04.01.18:066][104]LogSlate: Window 'Submit Files' being destroyed
+[2020.07.15-04.01.18:509][104]LogSourceControl: commit successful: [master fd1e9e7] Creacion Blueprint Character
+[2020.07.15-04.01.18:577][104]SourceControl: [master fd1e9e7] Creacion Blueprint Character
+[2020.07.15-04.01.18:577][104]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.07.15-04.01.18:577][104]SourceControl:  create mode 100644 Content/Maps/BP_Character.uasset
+[2020.07.15-04.01.18:593][104]SourceControl: Commited [master fd1e9e7] Creacion Blueprint Character.
+[2020.07.15-04.01.24:820][427]LogSlate: Window 'Message Log' being destroyed
+[2020.07.15-04.01.24:829][427]LogSlate: Window 'Message Log' being destroyed
