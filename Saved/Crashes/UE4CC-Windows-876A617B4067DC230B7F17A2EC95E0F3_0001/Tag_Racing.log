@@ -1,0 +1,1221 @@
+﻿Log file open, 07/15/20 00:45:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Tag_Racing
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.182365
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Engine.ini]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.07.15-04.45.31:509][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Engine.ini]
+[2020.07.15-04.45.31:510][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Engine.ini]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Engine.ini]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.15-04.45.31:510][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Engine.ini]
+[2020.07.15-04.45.31:510][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Engine.ini]
+[2020.07.15-04.45.31:514][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:514][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.15-04.45.31:514][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.15-04.45.31:514][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:514][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.15-04.45.31:514][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:514][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.15-04.45.31:514][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.15-04.45.31:514][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.15-04.45.31:514][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.15-04.45.31:514][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.15-04.45.31:515][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.15-04.45.31:515][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.15-04.45.31:515][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.15-04.45.31:538][  0]LogHAL: Display: Platform has ~ 8 GB [8463368192 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.15-04.45.31:538][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.15-04.45.31:538][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.15-04.45.31:538][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.15-04.45.31:546][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.15-04.45.31:546][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.15-04.45.31:546][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Config/Windows/Engine.ini]
+[2020.07.15-04.45.31:546][  0]LogInit: Computer: ZEREX®
+[2020.07.15-04.45.31:546][  0]LogInit: User: ymanc
+[2020.07.15-04.45.31:546][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.07.15-04.45.31:546][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.15-04.45.31:546][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.07.15-04.45.31:546][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.15-04.45.31:546][  0]LogMemory: Process Physical Memory: 103.28 MB used, 103.29 MB peak
+[2020.07.15-04.45.31:546][  0]LogMemory: Process Virtual Memory: 101.66 MB used, 101.66 MB peak
+[2020.07.15-04.45.31:546][  0]LogMemory: Physical Memory: 6451.43 MB used,  1619.87 MB free, 8071.30 MB total
+[2020.07.15-04.45.31:546][  0]LogMemory: Virtual Memory: 4688.48 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2020.07.15-04.45.31:550][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.15-04.45.31:781][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.07.15-04.45.31:782][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.07.15-04.45.32:423][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.15-04.45.32:816][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.15-04.45.32:816][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.15-04.45.35:025][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.15-04.45.35:025][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.15-04.45.35:157][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.07.15-04.45.35:157][  0]LogD3D11RHI:       2987/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.07.15-04.45.35:168][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.15-04.45.35:168][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.15-04.45.35:168][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.15-04.45.35:177][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.15-04.45.35:177][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.15-04.45.35:177][  0]LogWindows: EnumDisplayDevices:
+[2020.07.15-04.45.35:177][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2020.07.15-04.45.35:177][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2020.07.15-04.45.35:178][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.07.15-04.45.35:178][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.07.15-04.45.35:178][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.07.15-04.45.35:178][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.07.15-04.45.35:178][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.07.15-04.45.35:178][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.07.15-04.45.35:178][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2020.07.15-04.45.35:238][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.15-04.45.35:263][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.15-04.45.36:054][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.07.15-04.45.36:070][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.07.15-04.45.36:078][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.07.15-04.45.36:086][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.07.15-04.45.36:122][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.07.15-04.45.36:142][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.07.15-04.45.36:150][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.15-04.45.36:164][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.07.15-04.45.36:167][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.07.15-04.45.36:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.07.15-04.45.36:252][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.07.15-04.45.36:350][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.07.15-04.45.36:350][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.07.15-04.45.36:374][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.07.15-04.45.36:374][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.07.15-04.45.36:392][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.07.15-04.45.36:407][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.15-04.45.36:420][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.07.15-04.45.36:450][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.07.15-04.45.36:487][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.07.15-04.45.36:487][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.07.15-04.45.36:487][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.15-04.45.36:629][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.15-04.45.36:995][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Intermediate/Shaders/WorkingDirectory/5828/).
+[2020.07.15-04.45.36:995][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ymanc/AppData/Local/Temp/UnrealShaderWorkingDir/3AFEAE974182CD71DB053C817BC62888/'.
+[2020.07.15-04.45.37:011][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.15-04.45.37:012][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.15-04.45.37:012][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.15-04.45.39:821][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.15-04.45.40:026][  0]LogDerivedDataCache: Loaded boot cache 0.20s 73MB C:/Users/ymanc/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.07.15-04.45.40:026][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ymanc/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.07.15-04.45.40:026][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.15-04.45.40:026][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.15-04.45.40:026][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.15-04.45.40:026][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.15-04.45.40:051][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.15-04.45.40:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.15-04.45.40:051][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.15-04.45.40:053][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ymanc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.15-04.45.40:053][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.15-04.45.40:053][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.15-04.45.40:075][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.15-04.45.40:077][  0]LogSlate: Using FreeType 2.6.0
+[2020.07.15-04.45.40:177][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.15-04.45.40:720][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.07.15-04.45.41:053][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.15-04.45.41:577][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.15-04.45.41:577][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.15-04.45.41:578][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.15-04.45.41:578][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.15-04.45.41:578][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.15-04.45.41:662][  0]LogNetVersion: Tag_Racing 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3950983354)
+[2020.07.15-04.45.42:301][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.049556 seconds
+[2020.07.15-04.45.42:309][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.07.15-04.45.42:309][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.07.15-04.45.42:309][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.15-04.45.51:717][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.15-04.45.51:762][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.15-04.45.52:154][  0]SourceControl: Source control is disabled
+[2020.07.15-04.45.52:155][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:155][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.07.15-04.45.52:155][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:155][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.07.15-04.45.52:155][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:155][  0]LogWindows: Warning: URL: C:\Users\ymanc\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.07.15-04.45.52:156][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:156][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.07.15-04.45.52:156][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:156][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.07.15-04.45.52:156][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:156][  0]LogWindows: Warning: URL: C:\Users\ymanc\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.07.15-04.45.52:156][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:156][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.07.15-04.45.52:185][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:185][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.07.15-04.45.52:185][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:185][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.07.15-04.45.52:186][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:186][  0]LogWindows: Warning: URL: C:\Users\ymanc\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.07.15-04.45.52:186][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:186][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.07.15-04.45.52:186][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:186][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.07.15-04.45.52:186][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:186][  0]LogWindows: Warning: URL: C:\Users\ymanc\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.07.15-04.45.52:187][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:187][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.07.15-04.45.52:202][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:202][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.07.15-04.45.52:203][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:203][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.07.15-04.45.52:203][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:203][  0]LogWindows: Warning: URL: C:\Users\ymanc\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.07.15-04.45.52:203][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:203][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.07.15-04.45.52:203][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:203][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.07.15-04.45.52:204][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:204][  0]LogWindows: Warning: URL: C:\Users\ymanc\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.07.15-04.45.52:204][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.52:204][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.07.15-04.45.53:035][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.15-04.45.53:395][  0]LogOcInput: OculusInput pre-init called
+[2020.07.15-04.45.53:438][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.15-04.45.53:438][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.15-04.45.53:620][  0]LogEngine: Initializing Engine...
+[2020.07.15-04.45.53:621][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.15-04.45.53:622][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.15-04.45.53:931][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.15-04.45.53:973][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.15-04.45.53:994][  0]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.15-04.45.54:054][  0]LogInit: FAudioDevice initialized.
+[2020.07.15-04.45.54:054][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.15-04.45.54:177][  0]LogDerivedDataCache: Saved boot cache 0.12s 73MB C:/Users/ymanc/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.07.15-04.45.54:195][  0]LogInit: Texture streaming: Enabled
+[2020.07.15-04.45.54:243][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.15-04.45.54:243][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.15-04.45.54:243][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.15-04.45.54:412][  0]LogInit: Transaction tracking system initialized
+[2020.07.15-04.45.54:699][  0]BlueprintLog: New page: Editor Load
+[2020.07.15-04.45.55:154][  0]LocalizationService: Localization service is disabled
+[2020.07.15-04.45.56:150][  0]LogFileCache: Scanning file cache for directory 'D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/' took 0.00s
+[2020.07.15-04.45.56:150][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.15-04.45.56:150][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.15-04.45.58:590][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.58:590][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.07.15-04.45.58:590][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.58:590][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.07.15-04.45.58:590][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.58:590][  0]LogWindows: Warning: URL: C:\Users\ymanc\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.07.15-04.45.58:590][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.58:590][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.07.15-04.45.58:591][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.58:591][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.07.15-04.45.58:591][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.58:591][  0]LogWindows: Warning: URL: C:\Users\ymanc\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.07.15-04.45.58:591][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2020.07.15-04.45.58:591][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.07.15-04.45.58:591][  0]Cmd: MAP LOAD FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.15-04.45.58:621][  0]LightingResults: New page: Lighting Build
+[2020.07.15-04.45.58:643][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-04.45.58:643][  0]MapCheck: New page: Map Check
+[2020.07.15-04.45.58:643][  0]LightingResults: New page: Lighting Build
+[2020.07.15-04.45.58:672][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.07.15-04.46.00:104][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.07.15-04.46.00:368][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.15-04.46.00:405][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.07.15-04.46.00:405][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.15-04.46.00:406][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2020.07.15-04.46.00:406][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 1.815
+[2020.07.15-04.46.00:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-04.46.00:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-04.46.00:646][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-04.46.00:655][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-04.46.00:703][  0]LogCollectionManager: Loaded 0 collections in 0.001398 seconds
+[2020.07.15-04.46.00:725][  0]LogFileCache: Scanning file cache for directory 'D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Collections/' took 0.00s
+[2020.07.15-04.46.00:725][  0]LogFileCache: Scanning file cache for directory 'D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Developers/ymanc/Collections/' took 0.00s
+[2020.07.15-04.46.00:725][  0]LogFileCache: Scanning file cache for directory 'D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Collections/' took 0.00s
+[2020.07.15-04.46.00:725][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.07.15-04.46.00:735][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2865 classes and 683 folders.
+[2020.07.15-04.46.00:764][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.15-04.46.02:153][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.07.15-04.46.02:218][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.07.15-04.46.02:357][  0]LogSlate: Took 0.020035 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.15-04.46.02:368][  0]LogSlate: Took 0.009913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.15-04.46.02:379][  0]LogSlate: Took 0.008423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.15-04.46.02:496][  0]LogRenderer: Reallocating scene render targets to support 916x432 Format 10 NumSamples 1 (Frame:1).
+[2020.07.15-04.46.02:627][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.15-04.46.02:627][  0]LogLoad: (Engine Initialization) Total time: 38.89 seconds
+[2020.07.15-04.46.02:627][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.15-04.46.02:649][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.07.15-04.46.02:650][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.07.15-04.46.02:650][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.07.15-04.46.02:651][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2020.07.15-04.46.02:651][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2020.07.15-04.46.02:716][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.15-04.46.04:315][ 26]LogSlate: Took 0.017785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.15-04.46.04:421][ 28]LogAssetRegistry: Asset discovery search completed in 23.7014 seconds
+[2020.07.15-04.46.04:434][ 28]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.07.15-04.46.04:434][ 28]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2020.07.15-04.46.07:867][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-04.49.53:575][362]Cmd: DELETE
+[2020.07.15-04.49.53:575][362]Cmd: ACTOR DELETE
+[2020.07.15-04.49.53:678][362]LogEditorActor: Deleted Actor: Brush
+[2020.07.15-04.49.53:704][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.07.15-04.49.53:837][362]LogEditorActor: Deleted 1 Actors (0.263 secs)
+[2020.07.15-04.49.55:066][436]Cmd: TRANSACTION UNDO
+[2020.07.15-04.49.55:066][436]LogEditorTransaction: Undo Delete Actors
+[2020.07.15-04.49.55:232][436]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.15-04.49.56:849][532]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-04.49.57:700][582]Cmd: DELETE
+[2020.07.15-04.49.57:700][582]Cmd: ACTOR DELETE
+[2020.07.15-04.49.57:703][582]LogEditorActor: Deleted Actor: BP_SplineTrackActor_C
+[2020.07.15-04.49.57:728][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.07.15-04.49.57:728][582]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.07.15-04.50.06:702][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-04.50.08:783][245]LogAssetEditorManager: Opening Asset editor for World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2020.07.15-04.50.08:811][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.07.15-04.50.10:622][245]LogSlate: Window 'Save Content' being destroyed
+[2020.07.15-04.50.12:070][327]LogAIModule: Creating AISystem for world EstallidoSocial
+[2020.07.15-04.50.12:079][327]LogAssetEditorManager: Opening Asset editor for World /Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial
+[2020.07.15-04.50.12:106][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.07.15-04.50.14:262][327]LogSlate: Window 'Save Content' being destroyed
+[2020.07.15-04.50.14:266][327]Cmd: MAP LOAD FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/VehicleAdvBP/Maps/EstallidoSocial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.15-04.50.14:268][327]LightingResults: New page: Lighting Build
+[2020.07.15-04.50.14:269][327]LoadErrors: New page: Loading map: EstallidoSocial.umap
+[2020.07.15-04.50.14:270][327]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-04.50.14:271][327]MapCheck: New page: Map Check
+[2020.07.15-04.50.14:271][327]LightingResults: New page: Lighting Build
+[2020.07.15-04.50.14:308][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.15-04.50.15:191][327]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.15-04.50.15:219][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.07.15-04.50.15:238][327]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.15-04.50.15:238][327]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2020.07.15-04.50.15:238][327]LogFileHelpers: Loading map 'EstallidoSocial' took 0.973
+[2020.07.15-04.50.20:786][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-04.50.27:974][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-04.55.25:679][679]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.15-04.55.26:753][742]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-04.55.40:549][398]Cmd: TRANSACTION UNDO
+[2020.07.15-04.55.40:549][398]LogEditorTransaction: Undo Move Actors
+[2020.07.15-04.56.37:077][630]Cmd: TRANSACTION UNDO
+[2020.07.15-04.56.37:077][630]LogEditorTransaction: Undo Move Actors
+[2020.07.15-04.57.27:909][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.15-04.57.30:139][621]LogMaterial: Display: Material /Game/VehicleAdv/Materials/MasterGrid.MasterGrid needed to have new flag set bUsedWithSplineMeshes !
+[2020.07.15-04.57.30:152][621]LogMaterial: Display: Missing cached shader map for material MasterGrid, compiling. 
+[2020.07.15-04.57.30:333][621]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 59
+[2020.07.15-04.57.30:333][621]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 51
+[2020.07.15-04.57.30:333][621]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2020.07.15-04.57.30:333][621]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2020.07.15-04.57.30:333][621]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2020.07.15-04.57.30:333][621]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2020.07.15-04.57.30:333][621]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.07.15-04.57.30:333][621]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.07.15-04.57.56:104][ 42]Cmd: TRANSACTION UNDO
+[2020.07.15-04.57.56:104][ 42]LogEditorTransaction: Undo Edit Track Part Mesh
+[2020.07.15-04.58.26:769][877]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-04.58.28:108][957]LogEditorViewport: Clicking on Actor (context menu): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-04.58.28:330][957]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.15-04.58.29:051][  0]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-04.58.33:811][284]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-04.58.37:930][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-04.58.53:808][475]LogEditorViewport: Clicking on Actor (LMB): VehicleBlueprint_C (VehicleBlueprint)
+[2020.07.15-04.58.56:840][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-04.58.57:120][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.07.15-04.58.58:016][649]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/EstallidoSocialEA3CED8245C4AEEDBADF52BA639BF5C1.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/VehicleAdvBP/Maps/EstallidoSocial.umap'
+[2020.07.15-04.59.03:990][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-04.59.04:072][  8]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.15-04.59.04:130][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-04.59.04:153][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.15-04.59.04:215][  8]PIE: New page: PIE session: EstallidoSocial (Jul 14, 2020, 8:59:04 PM)
+[2020.07.15-04.59.04:293][  8]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.15-04.59.04:304][  8]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial
+[2020.07.15-04.59.04:420][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115771s)
+[2020.07.15-04.59.04:435][  8]LogAIModule: Creating AISystem for world EstallidoSocial
+[2020.07.15-04.59.04:445][  8]LogPlayLevel: PIE: World Init took: (0.024574s)
+[2020.07.15-04.59.04:458][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial to /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial.EstallidoSocial (0.153006s)
+[2020.07.15-04.59.04:486][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.07.15-04.59.04:542][  8]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.15-04.59.04:594][  8]LogInit: FAudioDevice initialized.
+[2020.07.15-04.59.04:685][  8]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.07.15-04.59.04:846][  8]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial.EstallidoSocial up for play (max tick rate 60) at 2020.07.15-00.59.04
+[2020.07.15-04.59.04:924][  8]LogWorld: Bringing up level for play took: 0.143516
+[2020.07.15-04.59.04:944][  8]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.07.15-04.59.05:031][  8]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.07.15-04.59.05:088][  8]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial 1.027
+[2020.07.15-04.59.05:088][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-04.59.36:926][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-04.59.36:926][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-04.59.36:926][864]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial
+[2020.07.15-04.59.36:926][864]LogWorld: UWorld::CleanupWorld for EstallidoSocial, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-04.59.36:967][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.15-04.59.36:967][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-04.59.37:105][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-04.59.37:119][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.07.15-04.59.37:157][865]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.07.15-04.59.44:047][277]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-04.59.46:418][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.00.49:684][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.01.02:723][460]LogHttp: Warning: 000001D0252A8680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B37E300E1-4825-1E21-7A0A-2DAB155ABA49%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=d4e7ff7f4f391ad3415a52a54c551b5e%7C27f8043aef514fe184d28979b3c76309%7Cf62e999a-18a1-47b2-bef1-2fa2f77a963f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.07.15-05.01.02:723][460]LogHttp: Warning: 000001D0252A8680: request failed, libcurl error: 0 (No error)
+[2020.07.15-05.01.02:723][460]LogHttp: Warning: 000001D0252A8680: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d066647f70 [can pipeline])
+[2020.07.15-05.01.02:723][460]LogHttp: Warning: 000001D0252A8680: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2020.07.15-05.01.02:723][460]LogHttp: Warning: 000001D0252A8680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.221.183.62) port 443 (#5))
+[2020.07.15-05.01.02:724][460]LogHttp: Warning: 000001D0252A8680: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.07.15-05.01.02:724][460]LogHttp: Warning: 000001D0252A8680: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.07.15-05.01.02:724][460]LogHttp: Warning: 000001D0252A8680: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.07.15-05.01.02:724][460]LogHttp: Warning: 000001D0252A8680: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.07.15-05.01.02:724][460]LogHttp: Warning: 000001D0252A8680: libcurl info message cache 7 (Closing connection 5)
+[2020.07.15-05.01.02:724][460]LogHttp: Warning: 000001D0252A8680: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.07.15-05.01.02:724][460]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B37E300E1-4825-1E21-7A0A-2DAB155ABA49%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=d4e7ff7f4f391ad3415a52a54c551b5e%7C27f8043aef514fe184d28979b3c76309%7Cf62e999a-18a1-47b2-bef1-2fa2f77a963f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.07.15-05.01.13:374][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.01.19:968][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.01.25:288][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.01.36:091][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.01.50:039][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.01.58:922][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.04.52:998][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.04.56:768][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.05.06:020][149]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.07.15-05.05.06:142][149]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.15-05.05.07:438][221]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor2)
+[2020.07.15-05.05.09:512][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.15-05.05.23:827][186]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.15-05.05.25:467][283]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor2)
+[2020.07.15-05.05.37:217][971]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor2)
+[2020.07.15-05.05.56:953][137]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor3)
+[2020.07.15-05.05.57:742][183]Cmd: DELETE
+[2020.07.15-05.05.57:742][183]Cmd: ACTOR DELETE
+[2020.07.15-05.05.57:845][183]LogEditorActor: Deleted Actor: BP_SplineTrackActor_C
+[2020.07.15-05.05.57:936][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.07.15-05.05.57:960][183]LogEditorActor: Deleted 1 Actors (0.180 secs)
+[2020.07.15-05.05.59:323][265]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor2)
+[2020.07.15-05.06.07:553][757]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor2)
+[2020.07.15-05.06.08:377][806]Cmd: DELETE
+[2020.07.15-05.06.08:377][806]Cmd: ACTOR DELETE
+[2020.07.15-05.06.08:380][806]LogEditorActor: Deleted Actor: BP_SplineTrackActor_C
+[2020.07.15-05.06.08:402][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.07.15-05.06.08:403][806]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.07.15-05.07.20:367][123]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-05.10.16:109][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.10.16:224][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.07.15-05.10.16:587][839]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/EstallidoSocial92D765C44B072D02293128B07AAFEEEE.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/VehicleAdvBP/Maps/EstallidoSocial.umap'
+[2020.07.15-05.10.52:145][969]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.15-05.10.52:863][ 11]LogEditorViewport: Clicking on Actor (LMB): VehicleBlueprint_C (VehicleBlueprint)
+[2020.07.15-05.11.04:378][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.11.08:736][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.11.08:859][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.07.15-05.11.09:080][964]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/EstallidoSocial7074CC4E411A09AFA126D3A1034E27BA.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/VehicleAdvBP/Maps/EstallidoSocial.umap'
+[2020.07.15-05.11.09:533][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.11.09:616][995]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.15-05.11.09:627][995]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.11.09:627][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.15-05.11.09:627][995]PIE: New page: PIE session: EstallidoSocial (Jul 14, 2020, 9:11:09 PM)
+[2020.07.15-05.11.09:628][995]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial
+[2020.07.15-05.11.09:679][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051536s)
+[2020.07.15-05.11.09:680][995]LogAIModule: Creating AISystem for world EstallidoSocial
+[2020.07.15-05.11.09:681][995]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2020.07.15-05.11.09:681][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial to /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial.EstallidoSocial (0.053061s)
+[2020.07.15-05.11.09:705][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.07.15-05.11.09:719][995]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.15-05.11.09:761][995]LogInit: FAudioDevice initialized.
+[2020.07.15-05.11.09:769][995]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.07.15-05.11.09:776][995]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial.EstallidoSocial up for play (max tick rate 60) at 2020.07.15-01.11.09
+[2020.07.15-05.11.09:777][995]LogWorld: Bringing up level for play took: 0.003713
+[2020.07.15-05.11.09:786][995]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.07.15-05.11.09:790][995]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial -0.272
+[2020.07.15-05.11.09:790][995]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.12.39:731][369]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.12.39:731][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-05.12.39:731][369]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial
+[2020.07.15-05.12.39:732][369]LogWorld: UWorld::CleanupWorld for EstallidoSocial, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-05.12.39:742][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.15-05.12.39:742][369]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.12.39:777][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-05.12.39:784][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.15-05.12.39:830][371]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.07.15-05.12.49:287][938]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-05.16.07:005][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.16.20:157][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.16.20:313][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.07.15-05.16.20:572][973]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/EstallidoSocial6AFBCDA1494798AB15DA42B1A8631424.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/VehicleAdvBP/Maps/EstallidoSocial.umap'
+[2020.07.15-05.16.44:686][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.16.44:770][422]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.15-05.16.44:780][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.16.44:780][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.15-05.16.44:780][422]PIE: New page: PIE session: EstallidoSocial (Jul 14, 2020, 9:16:44 PM)
+[2020.07.15-05.16.44:780][422]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial
+[2020.07.15-05.16.44:824][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044026s)
+[2020.07.15-05.16.44:826][422]LogAIModule: Creating AISystem for world EstallidoSocial
+[2020.07.15-05.16.44:826][422]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2020.07.15-05.16.44:826][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial to /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial.EstallidoSocial (0.045568s)
+[2020.07.15-05.16.44:849][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.07.15-05.16.44:864][422]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.15-05.16.44:907][422]LogInit: FAudioDevice initialized.
+[2020.07.15-05.16.44:912][422]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.07.15-05.16.44:918][422]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial.EstallidoSocial up for play (max tick rate 60) at 2020.07.15-01.16.44
+[2020.07.15-05.16.44:918][422]LogWorld: Bringing up level for play took: 0.002422
+[2020.07.15-05.16.44:918][422]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.07.15-05.16.44:920][422]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial 0.859
+[2020.07.15-05.16.44:920][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.17.46:692][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.17.46:693][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-05.17.46:693][107]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial
+[2020.07.15-05.17.46:693][107]LogWorld: UWorld::CleanupWorld for EstallidoSocial, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-05.17.46:709][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.15-05.17.46:709][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.17.46:750][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-05.17.46:755][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.07.15-05.17.46:810][109]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.07.15-05.17.50:971][358]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-05.18.49:026][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.20.30:788][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.20.33:893][545]Cmd: TRANSACTION UNDO
+[2020.07.15-05.20.33:893][545]LogEditorTransaction: Undo Move Actors
+[2020.07.15-05.20.37:689][771]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-05.20.38:561][823]LogEditorViewport: Clicking on Actor (LMB): BP_SplineTrackActor_C (BP_SplineTrackActor)
+[2020.07.15-05.20.45:599][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.20.45:780][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.07.15-05.20.46:031][232]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/EstallidoSocial5423BED04D9C7D56ED0D74B36987094C.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/VehicleAdvBP/Maps/EstallidoSocial.umap'
+[2020.07.15-05.20.58:171][957]LogEditorViewport: Clicking on Actor (LMB): VehicleBlueprint_C (VehicleBlueprint)
+[2020.07.15-05.21.25:212][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.21.25:319][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.07.15-05.21.25:545][580]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/EstallidoSocial6D0FF20649B7B9CDD615448B42480249.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/VehicleAdvBP/Maps/EstallidoSocial.umap'
+[2020.07.15-05.21.32:185][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.22.18:908][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.07.15-05.22.19:140][756]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/EstallidoSocialCB506EB84BFEEC6CC728C0AF66F99212.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/VehicleAdvBP/Maps/EstallidoSocial.umap'
+[2020.07.15-05.22.32:949][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.22.33:015][586]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.15-05.22.33:025][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.22.33:025][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.15-05.22.33:025][586]PIE: New page: PIE session: EstallidoSocial (Jul 14, 2020, 9:22:33 PM)
+[2020.07.15-05.22.33:025][586]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial
+[2020.07.15-05.22.33:075][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049174s)
+[2020.07.15-05.22.33:076][586]LogAIModule: Creating AISystem for world EstallidoSocial
+[2020.07.15-05.22.33:076][586]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2020.07.15-05.22.33:076][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial to /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial.EstallidoSocial (0.050455s)
+[2020.07.15-05.22.33:098][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.07.15-05.22.33:114][586]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.15-05.22.33:170][586]LogInit: FAudioDevice initialized.
+[2020.07.15-05.22.33:178][586]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.07.15-05.22.33:184][586]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial.EstallidoSocial up for play (max tick rate 60) at 2020.07.15-01.22.33
+[2020.07.15-05.22.33:185][586]LogWorld: Bringing up level for play took: 0.003009
+[2020.07.15-05.22.33:185][586]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.07.15-05.22.33:186][586]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial 1.126
+[2020.07.15-05.22.33:187][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.22.38:524][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.22.38:525][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-05.22.38:525][905]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_EstallidoSocial
+[2020.07.15-05.22.38:525][905]LogWorld: UWorld::CleanupWorld for EstallidoSocial, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-05.22.38:535][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.15-05.22.38:536][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial' with GeneratedClass '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/EstallidoSocial.EstallidoSocial:PersistentLevel.EstallidoSocial'
+[2020.07.15-05.22.38:565][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-05.22.38:570][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.07.15-05.22.38:638][908]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.07.15-05.22.58:729][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.22.58:869][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.07.15-05.22.59:087][756]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/EstallidoSocial9051281047C74DB8D4DEDABF19BF6809.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/VehicleAdvBP/Maps/EstallidoSocial.umap'
+[2020.07.15-05.27.01:617][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.27.01:738][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.07.15-05.27.01:955][310]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/EstallidoSocialDA9C70684E1E2A7093E2DDB785E01EE5.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/VehicleAdvBP/Maps/EstallidoSocial.umap'
+[2020.07.15-05.33.06:504][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-05.33.40:522][128]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.07.15-05.36.00:893][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.07.15-05.36.00:903][498]LogMetaData: Removing '/Game/Menu/Main_menu.SKEL_Main_menu_C' ref from Metadata '/Game/Menu/MenuPrincipal.PackageMetaData'
+[2020.07.15-05.36.00:903][498]LogMetaData: Removing '/Game/Menu/Main_menu.Main_menu_C' ref from Metadata '/Game/Menu/MenuPrincipal.PackageMetaData'
+[2020.07.15-05.36.00:903][498]LogMetaData: Removing '/Game/Menu/Main_menu.Main_menu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Menu/MenuPrincipal.PackageMetaData'
+[2020.07.15-05.36.00:903][498]LogMetaData: Removing '/Game/Menu/Main_menu.Main_menu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Menu/MenuPrincipal.PackageMetaData'
+[2020.07.15-05.36.00:903][498]LogMetaData: Removing '/Game/Menu/Main_menu.Main_menu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Menu/MenuPrincipal.PackageMetaData'
+[2020.07.15-05.36.01:017][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Main_menu" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Main_menu.uasset" SILENT=true
+[2020.07.15-05.36.01:037][498]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Main_menu1BE16AC741355EB8F02A449D40962716.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Main_menu.uasset'
+[2020.07.15-05.36.01:140][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.07.15-05.36.01:170][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.07.15-05.36.01:190][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.07.15-05.36.05:649][666]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/Main_menu.Main_menu
+[2020.07.15-05.36.05:913][666]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0031 seconds. Added 121 classes and 0 folders.
+[2020.07.15-05.36.07:061][666]LogSlate: Took 0.042089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.15-05.36.08:523][751]LogSlate: Window 'Main_menu' being destroyed
+[2020.07.15-05.36.08:530][752]LogRenderer: Reallocating scene render targets to support 1144x540 Format 10 NumSamples 1 (Frame:120691).
+[2020.07.15-05.38.14:630][545]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.07.15-05.38.14:630][545]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/EstallidoSocial' took 0.070
+[2020.07.15-05.38.14:632][545]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid] ([1] browsable assets)...
+[2020.07.15-05.38.14:669][545]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/VehicleAdv/Materials/MaterialInstances/BlackGrid.BlackGrid]
+[2020.07.15-05.38.14:669][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid]
+[2020.07.15-05.38.14:769][545]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/BlackGrid_Auto1AD6F562D44727A0BF34B8BB785320F6B.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Autosaves/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid_Auto1.uasset'
+[2020.07.15-05.38.14:770][545]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdv/Materials/MasterGrid] ([1] browsable assets)...
+[2020.07.15-05.38.14:790][545]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VehicleAdv/Materials/MasterGrid.MasterGrid]
+[2020.07.15-05.38.14:790][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdv/Materials/MasterGrid]
+[2020.07.15-05.38.14:816][545]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/MasterGrid_Auto1EED92E0A4E4FCCEC531838888FAC6641.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Autosaves/Game/VehicleAdv/Materials/MasterGrid_Auto1.uasset'
+[2020.07.15-05.38.14:817][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu/Main_menu] ([1] browsable assets)...
+[2020.07.15-05.38.14:817][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/Main_menu]
+[2020.07.15-05.38.14:817][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Main_menu" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Autosaves/Game/Menu/Main_menu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.07.15-05.38.14:832][545]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Main_menu_Auto1CE8E9CB14CA765837E8452B2E6C5C78A.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Autosaves/Game/Menu/Main_menu_Auto1.uasset'
+[2020.07.15-05.38.14:833][545]LogFileHelpers: Auto-saving content packages took 0.201
+[2020.07.15-05.39.06:618][816]AssetReimport: New page: Outstanding source content changes 9:39:06 PM
+[2020.07.15-05.39.06:635][816]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Presidential_Tag_Race.png)
+[2020.07.15-05.39.06:770][817]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Presidential_Tag_RaceC5F958D04225455CF2B66CBD2BAADA43.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Presidential_Tag_Race.uasset'
+[2020.07.15-05.39.09:783][996]AssetReimport: Importing new asset /Game/Menu/Imagen/Presidential_Tag_Race.
+[2020.07.15-05.41.12:015][805]AssetReimport: New page: Outstanding source content changes 9:41:12 PM
+[2020.07.15-05.41.12:017][805]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Trianguloizq.png)
+[2020.07.15-05.41.12:042][806]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Banderin_azul.png)
+[2020.07.15-05.41.12:050][806]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Banderin_negro.png)
+[2020.07.15-05.41.12:067][807]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Banderin_rojo.png)
+[2020.07.15-05.41.12:077][807]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Batalla.jpg)
+[2020.07.15-05.41.12:198][808]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/exit.jpg)
+[2020.07.15-05.41.12:305][809]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/exit_2.png)
+[2020.07.15-05.41.12:389][810]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/maxresdefault.jpg)
+[2020.07.15-05.41.13:012][811]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/plazaitalia.jpg)
+[2020.07.15-05.41.13:854][812]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Presidential_Tag_Race - copia.png)
+[2020.07.15-05.41.13:863][812]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Primera_Junta_de_Gobierno_Chile.jpg)
+[2020.07.15-05.41.13:915][813]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/PTR.png)
+[2020.07.15-05.41.13:921][813]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/salir.png)
+[2020.07.15-05.41.13:953][814]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/TrianguloDer.png)
+[2020.07.15-05.41.13:999][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/Trianguloizq" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Trianguloizq.uasset" SILENT=true
+[2020.07.15-05.41.14:025][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/TrianguloizqC30D50014D3FECB533772997286E4195.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Trianguloizq.uasset'
+[2020.07.15-05.41.14:038][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/Banderin_azul" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Banderin_azul.uasset" SILENT=true
+[2020.07.15-05.41.14:057][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Banderin_azul3779D1B944222889188915855E68DD21.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Banderin_azul.uasset'
+[2020.07.15-05.41.14:067][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/Banderin_negro" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Banderin_negro.uasset" SILENT=true
+[2020.07.15-05.41.14:091][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Banderin_negro3D3E5926479C3976828AB286B0C54EC2.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Banderin_negro.uasset'
+[2020.07.15-05.41.14:101][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/Banderin_rojo" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Banderin_rojo.uasset" SILENT=true
+[2020.07.15-05.41.14:120][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Banderin_rojoFC2D93134DBB61D4D571CCB95B8F6A49.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Banderin_rojo.uasset'
+[2020.07.15-05.41.14:129][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/Batalla" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Batalla.uasset" SILENT=true
+[2020.07.15-05.41.14:158][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Batalla509784074CF79085DC5A62B8827B8DE0.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Batalla.uasset'
+[2020.07.15-05.41.14:174][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/exit" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/exit.uasset" SILENT=true
+[2020.07.15-05.41.14:244][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/exitF9A7B447427401D796C2B2A54D2C5D8E.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/exit.uasset'
+[2020.07.15-05.41.14:256][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/exit_2" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/exit_2.uasset" SILENT=true
+[2020.07.15-05.41.14:299][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/exit_2A61ED17742A57DAE656B18AA033BF028.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/exit_2.uasset'
+[2020.07.15-05.41.14:309][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/maxresdefault" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/maxresdefault.uasset" SILENT=true
+[2020.07.15-05.41.14:395][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/maxresdefault3C78AAA2406AE3EDE2F719AEEA3F3112.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/maxresdefault.uasset'
+[2020.07.15-05.41.14:403][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/plazaitalia" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/plazaitalia.uasset" SILENT=true
+[2020.07.15-05.41.14:605][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/plazaitalia6C72D9ED42806512CDD5C39CA3C7691E.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/plazaitalia.uasset'
+[2020.07.15-05.41.14:637][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Presidential_Tag_Race_-_copia0507081644441B5EFE569991CC6FC2FE.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Presidential_Tag_Race_-_copia.uasset'
+[2020.07.15-05.41.14:764][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Primera_Junta_de_Gobierno_ChileF5D4988D4D57339C8B784082ED18155C.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/Primera_Junta_de_Gobierno_Chile.uasset'
+[2020.07.15-05.41.14:776][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/PTR" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/PTR.uasset" SILENT=true
+[2020.07.15-05.41.14:787][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/PTR00386D7F43F5E256AC9C4DB96378F786.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/PTR.uasset'
+[2020.07.15-05.41.14:795][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/salir" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/salir.uasset" SILENT=true
+[2020.07.15-05.41.14:811][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/salir45F24BDC44D249517F400FA02D681188.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/salir.uasset'
+[2020.07.15-05.41.14:823][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/TrianguloDer" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/TrianguloDer.uasset" SILENT=true
+[2020.07.15-05.41.14:854][815]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/TrianguloDer4540D2C44C1E6837D2DECEA88F926BA8.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/TrianguloDer.uasset'
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/Trianguloizq.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/Banderin_azul.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/Banderin_negro.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/Banderin_rojo.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/Batalla.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/exit.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/exit_2.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/maxresdefault.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/plazaitalia.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/Presidential_Tag_Race_-_copia.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/Primera_Junta_de_Gobierno_Chile.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/PTR.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/salir.
+[2020.07.15-05.41.17:873][986]AssetReimport: Importing new asset /Game/Menu/Imagen/TrianguloDer.
+[2020.07.15-05.46.08:542][451]LogLinker: Failed to load '/Game/Utility/menu/MenuPrincipal': Can't find file.
+[2020.07.15-05.46.08:542][451]LogLinker: Failed to load '/Game/Utility/menu/MenuPrincipal': Can't find file.
+[2020.07.15-05.46.08:551][451]LogLinker: Failed to load '/Game/Utility/menu/MenuMapas': Can't find file.
+[2020.07.15-05.46.08:551][451]LogLinker: Failed to load '/Game/Utility/menu/MenuMapas': Can't find file.
+[2020.07.15-05.46.08:631][452]LogSlate: Took 0.031067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.15-05.47.26:545][489]BlueprintLog: New page: Compile Main_menu
+[2020.07.15-05.47.26:645][489]LogBlueprint: Error: [Compiler Main_menu] Spawn node  Create Widget  must have a class specified.
+[2020.07.15-05.47.26:735][489]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.07.15-05.47.57:273][310]BlueprintLog: New page: Compile Main_menu
+[2020.07.15-05.47.57:275][310]LogBlueprint: Error: [Compiler Main_menu] Spawn node  Create Widget  must have a class specified.
+[2020.07.15-05.47.57:313][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.07.15-05.47.57:999][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Main_menu" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Main_menu.uasset" SILENT=true
+[2020.07.15-05.47.58:116][335]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Main_menu57AD07F240578D079826E3B7C9D08868.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Main_menu.uasset'
+[2020.07.15-05.48.31:771][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.07.15-05.48.31:771][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/EstallidoSocial' took 0.034
+[2020.07.15-05.48.31:773][ 11]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu/Main_menu] ([1] browsable assets)...
+[2020.07.15-05.48.31:773][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/Main_menu]
+[2020.07.15-05.48.31:773][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Main_menu" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Autosaves/Game/Menu/Main_menu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.07.15-05.48.31:788][ 11]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Main_menu_Auto2ACE13F4D49BD676E671F878E20E0EC52.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Autosaves/Game/Menu/Main_menu_Auto2.uasset'
+[2020.07.15-05.48.31:789][ 11]LogFileHelpers: Auto-saving content packages took 0.016
+[2020.07.15-05.48.55:973][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Main_menu" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Main_menu.uasset" SILENT=true
+[2020.07.15-05.48.56:028][450]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.07.15-05.49.02:695][450]LogStats: FPlatformStackWalk::StackWalkAndDump -  6.668 s
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: === Handled ensure: ===
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: 
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: Found circular redirect from /Game/Menu/Main_Menu.Main_Menu to /Game/Menu/Main_Menu.Main_Menu! Returning None instead
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: Stack: 
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde74b6df0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde71362e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde73ef416 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde74061c9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde716df77 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde70fbb23 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde73fd7c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde728557c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde73afcc9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde73b0221 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde72876ac UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde7285652 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde73afcc9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde734e35c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde73b0221 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:695][450]LogOutputDevice: Error: [Callstack] 0x00007ffde72876ac UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffde734ea03 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffde734ce2b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffde734cb14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffde7ba8d75 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffde7ba881c UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdc504f0bf UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffde7391d62 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffde73b3b09 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffde739a771 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdd5b7795f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdd5b782f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdd5baf3b8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdd5babc3b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdd6377cd0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdd5eebd52 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdd5eea860 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdd5eff046 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdc2584f02 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdc253a8aa UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdc259a280 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdc1623cc8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdc168b0de UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdc16d1254 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdc1601f7d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdc15e4609 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdeca7783b UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdeca65ef9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdeca6be6d UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdeca6d1b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdec99ecad UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdec7e3076 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdec853413 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffdec8487fe UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffe1c1a4a7c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffe1c1926df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffe1c1a7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffe1c18edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffe4054e338 USER32.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffe4054dd79 USER32.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffe1c1a88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ff60ea56980 UE4Editor.exe!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ff60ea6a91c UE4Editor.exe!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ff60ea6a9fa UE4Editor.exe!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ff60ea7b92c UE4Editor.exe!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ff60ea7e60e UE4Editor.exe!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffe416e6fd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: [Callstack] 0x00007ffe41bfcec1 ntdll.dll!UnknownFunction []
+[2020.07.15-05.49.02:696][450]LogOutputDevice: Error: 
+[2020.07.15-05.49.02:703][450]LogStats:                SubmitErrorReport -  0.000 s
+[2020.07.15-05.49.12:013][450]LogStats:                    SendNewReport -  9.311 s
+[2020.07.15-05.49.12:014][450]LogStats:             FDebug::EnsureFailed - 15.997 s
+[2020.07.15-05.49.12:031][450]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/Main_menu9B1FF95F42535EF26D6CD3985E56E9B7.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Main_menu.uasset'
+[2020.07.15-05.49.12:276][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.07.15-05.49.16:116][671]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/Main_Maps.Main_Maps
+[2020.07.15-05.54.19:268][400]AssetReimport: New page: Outstanding source content changes 9:54:19 PM
+[2020.07.15-05.54.19:269][400]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/junta.jpg)
+[2020.07.15-05.54.19:963][401]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/golpe.jpg)
+[2020.07.15-05.54.20:036][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/junta" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/junta.uasset" SILENT=true
+[2020.07.15-05.54.20:158][402]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/junta7AD9AEF44F61119CB62B0D95B79F6407.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/junta.uasset'
+[2020.07.15-05.54.20:173][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Imagen/golpe" FILE="../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/golpe.uasset" SILENT=true
+[2020.07.15-05.54.20:225][402]LogSavePackage: Moving '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Saved/golpe1E26938F45B5C9740B2F7CAE3A279481.tmp' to '../../../../../proyectotitulo/ProyectoTitulo/Tag_Racing/Tag_Racing/Content/Menu/Imagen/golpe.uasset'
+[2020.07.15-05.54.23:240][581]AssetReimport: Importing new asset /Game/Menu/Imagen/junta.
+[2020.07.15-05.54.23:240][581]AssetReimport: Importing new asset /Game/Menu/Imagen/golpe.
+[2020.07.15-05.58.24:864][781]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.15-05.59.04:890][422]LogEditorTransaction: Undo Edit Size
+[2020.07.15-05.59.05:168][422]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.07.15-05.59.05:372][422]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.204 s
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: === Handled ensure: ===
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: 
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: 
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: Stack: 
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd6719688 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd5bedce0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd5ba3c9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdde820e75 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdde821a2f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdde821811 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdde86f490 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdde8593b0 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdde7ebc99 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdde780106 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdde8782b0 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdde7ee5f9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdeca6c430 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdec87170e UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdec81a854 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdc4f3a1bc UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdc50038d2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdc4f96e16 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdc4f2ea7b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdc5033969 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdc4ffc3ab UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd4fa5309 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffde780156e UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd5ef4d25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd4faa9e0 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd5ba412d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd5bc69e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd5bb24dc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd5c0ccd3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd5c4db6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd5bebaaf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:372][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd4fa5d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffdec81b62a UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffdec85191e UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd63bfe1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffdd63af481 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffdec7e3076 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffdec853413 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffdec8487fe UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffe1c1a4a7c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffe1c1926df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffe1c1a7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffe1c18edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffe4054e338 USER32.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffe4054dd79 USER32.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffe1c1a88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ff60ea56980 UE4Editor.exe!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ff60ea6a91c UE4Editor.exe!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ff60ea6a9fa UE4Editor.exe!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ff60ea7b92c UE4Editor.exe!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ff60ea7e60e UE4Editor.exe!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffe416e6fd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: [Callstack] 0x00007ffe41bfcec1 ntdll.dll!UnknownFunction []
+[2020.07.15-05.59.05:373][422]LogOutputDevice: Error: 
+[2020.07.15-05.59.05:382][422]LogStats:                SubmitErrorReport -  0.000 s
