@@ -639,3 +639,74 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.15-04.28.36:153][  1]LogAssetRegistry: Asset discovery search completed in 6.7129 seconds
 [2020.07.15-04.28.36:176][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000016 seconds (found 0 objects)
 [2020.07.15-04.28.36:176][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000217 seconds (updated 0 objects)
+[2020.07.15-04.35.48:132][622]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.15-04.35.50:738][761]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.15-04.35.50:766][761]LogAIModule: Creating AISystem for world GolpeEstado
+[2020.07.15-04.35.50:774][761]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/GolpeEstado.GolpeEstado
+[2020.07.15-04.35.50:809][761]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.07.15-04.35.50:810][761]Cmd: MAP LOAD FILE="C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Content/Maps/GolpeEstado.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.15-04.35.50:811][761]LightingResults: New page: Lighting Build
+[2020.07.15-04.35.50:811][761]LoadErrors: New page: Loading map: GolpeEstado.umap
+[2020.07.15-04.35.50:856][761]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-04.35.50:857][761]MapCheck: New page: Map Check
+[2020.07.15-04.35.50:857][761]LightingResults: New page: Lighting Build
+[2020.07.15-04.35.50:895][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.07.15-04.35.50:996][761]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.15-04.35.51:032][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.07.15-04.35.51:066][761]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.15-04.35.51:067][761]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2020.07.15-04.35.51:067][761]LogFileHelpers: Loading map 'GolpeEstado' took 0.258
+[2020.07.15-04.35.53:042][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-04.36.03:147][433]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.07.15-04.36.03:201][433]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.15-04.36.05:027][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.15-04.36.11:935][928]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.15-04.36.12:413][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.07.15-04.36.12:542][928]LogAIModule: Creating AISystem for world JuntaNacional
+[2020.07.15-04.36.12:585][928]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.15-04.36.12:690][928]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.15-04.36.12:854][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.07.15-04.36.13:354][928]LogSavePackage: Moving 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Saved/JuntaNacional245522E94453F7B21AA5BDA3100D2B45.tmp' to 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Content/VehicleAdvBP/Maps/JuntaNacional.umap'
+[2020.07.15-04.36.13:719][928]LogFileHelpers: Saving map 'JuntaNacional' took 0.972
+[2020.07.15-04.36.13:884][928]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.15-04.36.13:990][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.15-04.36.24:540][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.07.15-04.36.24:540][464]LogMetaData: Removing '/Game/Maps/JuntaNacional.SKEL_JuntaNacional_C' ref from Metadata '/Game/VehicleAdvBP/Maps/JuntaNacional.PackageMetaData'
+[2020.07.15-04.36.24:540][464]LogMetaData: Removing '/Game/Maps/JuntaNacional.JuntaNacional_C' ref from Metadata '/Game/VehicleAdvBP/Maps/JuntaNacional.PackageMetaData'
+[2020.07.15-04.36.24:663][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.07.15-04.36.25:104][464]LogSavePackage: Moving 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Saved/JuntaNacional50D46BC646A29222739D03B0844432C6.tmp' to 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Content/Maps/JuntaNacional.umap'
+[2020.07.15-04.36.25:457][464]LogFileHelpers: Saving map 'JuntaNacional' took 0.867
+[2020.07.15-04.36.26:103][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.07.15-04.36.26:140][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.07.15-04.36.26:170][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.15-04.36.26:383][464]SourceControl: rm 'Content/VehicleAdvBP/Maps/JuntaNacional.umap'
+[2020.07.15-04.36.30:320][690]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/JuntaNacional.JuntaNacional
+[2020.07.15-04.36.30:364][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.07.15-04.36.30:365][690]Cmd: MAP LOAD FILE="C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Content/Maps/JuntaNacional.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.15-04.36.30:365][690]LightingResults: New page: Lighting Build
+[2020.07.15-04.36.30:366][690]LoadErrors: New page: Loading map: JuntaNacional.umap
+[2020.07.15-04.36.30:366][690]LogWorld: UWorld::CleanupWorld for GolpeEstado, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-04.36.30:367][690]MapCheck: New page: Map Check
+[2020.07.15-04.36.30:367][690]LightingResults: New page: Lighting Build
+[2020.07.15-04.36.30:400][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.07.15-04.36.30:439][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.07.15-04.36.30:469][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.15-04.36.30:659][690]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.15-04.36.30:702][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.15-04.36.30:740][690]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.15-04.36.30:740][690]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2020.07.15-04.36.30:742][690]LogFileHelpers: Loading map 'JuntaNacional' took 0.378
+[2020.07.15-04.36.39:101][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.15-04.37.29:988][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_18)
+[2020.07.15-04.37.36:925][689]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={7B8D845B-437F-79AD-8A72-9996EF377950}
+[2020.07.15-04.39.40:040][252]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.15-04.40.25:477][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.07.15-04.40.25:478][530]LogMetaData: Removing '/Game/VehicleAdvBP/Maps/JuntaNacional.JuntaNacional_C' ref from Metadata '/Game/Maps/JuntaNacional.PackageMetaData'
+[2020.07.15-04.40.25:478][530]LogMetaData: Removing '/Game/VehicleAdvBP/Maps/JuntaNacional.SKEL_JuntaNacional_C' ref from Metadata '/Game/Maps/JuntaNacional.PackageMetaData'
+[2020.07.15-04.40.25:623][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.07.15-04.40.26:059][530]LogSavePackage: Moving 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Saved/JuntaNacional12F86B6742AC4B80C7C570A3893B2582.tmp' to 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Content/VehicleAdvBP/Maps/JuntaNacional.umap'
+[2020.07.15-04.40.26:480][530]LogFileHelpers: Saving map 'JuntaNacional' took 0.918
+[2020.07.15-04.40.27:040][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.07.15-04.40.27:074][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.07.15-04.40.27:105][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.07.15-04.40.27:326][530]SourceControl: rm 'Content/Maps/JuntaNacional.umap'
