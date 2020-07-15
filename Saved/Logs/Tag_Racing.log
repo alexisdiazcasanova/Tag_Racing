@@ -612,3 +612,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.15-04.17.06:931][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.07.15-04.17.06:940][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.07.15-04.17.06:949][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-04.17.06:958][  0]LogCollectionManager: Loaded 0 collections in 0.002324 seconds
+[2020.07.15-04.17.06:987][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Saved/Collections/' took 0.00s
+[2020.07.15-04.17.06:987][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Content/Developers/Marco/Collections/' took 0.00s
+[2020.07.15-04.17.06:987][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marco/Documents/Unreal Projects/Presidential_Tag_Race_V2.0/Tag_Racing/Content/Collections/' took 0.00s
+[2020.07.15-04.17.06:987][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.07.15-04.17.06:996][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2865 classes and 683 folders.
+[2020.07.15-04.17.07:045][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.07.15-04.17.07:848][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.15-04.17.07:869][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.07.15-04.17.08:109][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.15-04.17.08:112][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.15-04.17.08:135][  0]LogSlate: Took 0.017496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.15-04.17.08:284][  0]LogRenderer: Reallocating scene render targets to support 972x640 Format 9 NumSamples 1 (Frame:1).
+[2020.07.15-04.17.08:584][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.15-04.17.08:584][  0]LogLoad: (Engine Initialization) Total time: 12.23 seconds
+[2020.07.15-04.17.08:584][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.15-04.17.08:607][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.07.15-04.17.08:608][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.07.15-04.17.08:608][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.07.15-04.17.08:608][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2020.07.15-04.17.08:608][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2020.07.15-04.17.08:735][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.07.15-04.17.08:764][  0]LogSlate: Took 0.001027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.15-04.17.08:861][  2]LogAssetRegistry: Asset discovery search completed in 8.0047 seconds
+[2020.07.15-04.17.08:878][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000009 seconds (found 0 objects)
+[2020.07.15-04.17.08:878][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
