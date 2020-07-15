@@ -804,3 +804,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.15-03.20.40:755][519]LogAssetRegistry: Asset discovery search completed in 16.4251 seconds
 [2020.07.15-03.20.40:759][519]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
 [2020.07.15-03.20.40:759][519]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2020.07.15-03.48.18:775][889]LogRenderer: Reallocating scene render targets to support 680x412 Format 9 NumSamples 1 (Frame:611).
+[2020.07.15-03.48.18:808][891]LogRenderer: Reallocating scene render targets to support 684x412 Format 9 NumSamples 1 (Frame:615).
+[2020.07.15-03.48.18:876][894]LogRenderer: Reallocating scene render targets to support 688x412 Format 9 NumSamples 1 (Frame:621).
+[2020.07.15-03.48.18:937][899]LogRenderer: Reallocating scene render targets to support 692x412 Format 9 NumSamples 1 (Frame:625).
+[2020.07.15-03.48.19:126][901]LogRenderer: Reallocating scene render targets to support 712x412 Format 9 NumSamples 1 (Frame:629).
+[2020.07.15-03.48.19:184][902]LogRenderer: Reallocating scene render targets to support 716x412 Format 9 NumSamples 1 (Frame:631).
+[2020.07.15-03.48.19:243][903]LogRenderer: Reallocating scene render targets to support 724x412 Format 9 NumSamples 1 (Frame:633).
+[2020.07.15-03.48.19:266][904]LogRenderer: Reallocating scene render targets to support 728x412 Format 9 NumSamples 1 (Frame:635).
+[2020.07.15-03.48.19:318][907]LogRenderer: Reallocating scene render targets to support 732x412 Format 9 NumSamples 1 (Frame:639).
+[2020.07.15-03.48.19:335][908]LogRenderer: Reallocating scene render targets to support 736x412 Format 9 NumSamples 1 (Frame:641).
+[2020.07.15-03.48.19:354][909]LogRenderer: Reallocating scene render targets to support 740x412 Format 9 NumSamples 1 (Frame:643).
+[2020.07.15-03.48.19:381][910]LogRenderer: Reallocating scene render targets to support 744x412 Format 9 NumSamples 1 (Frame:645).
+[2020.07.15-03.49.39:184][120]LogSlate: Window 'Source Control Login' being destroyed
+[2020.07.15-03.50.23:090][ 64]LogSlate: Window 'Source Control Login' being destroyed
+[2020.07.15-03.50.29:262][406]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository at 'C:/Users/diaza/Documents/Proyectos/Tag_Racing'
+[2020.07.15-03.50.29:398][406]EditorErrors: Warning: No assets to check in!
+[2020.07.15-03.50.33:713][824]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.15-03.50.33:728][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GolpeEstado" FILE="../../../../../../Users/diaza/Documents/Proyectos/Tag_Racing/Content/Maps/GolpeEstado.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.15-03.50.33:755][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.07.15-03.50.33:765][824]LogSavePackage: Moving '../../../../../../Users/diaza/Documents/Proyectos/Tag_Racing/Saved/GolpeEstado01EAC7294AEA7C26FE8CD6BC9C974E71.tmp' to '../../../../../../Users/diaza/Documents/Proyectos/Tag_Racing/Content/Maps/GolpeEstado.umap'
+[2020.07.15-03.50.34:055][824]LogFileHelpers: Saving map 'GolpeEstado' took 0.328
+[2020.07.15-03.51.07:729][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.07.15-03.51.08:024][399]LogSavePackage: Moving '../../../../../../Users/diaza/Documents/Proyectos/Tag_Racing/Saved/VehicleAdvExampleMap2648FAC54CFE22E1325FEC9EDA7F16E7.tmp' to '../../../../../../Users/diaza/Documents/Proyectos/Tag_Racing/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2020.07.15-03.51.08:993][399]LogSavePackage: Moving '../../../../../../Users/diaza/Documents/Proyectos/Tag_Racing/Saved/VehicleAdvExampleMap_BuiltDataE8D02D1B451D39373269BFB7329010FB.tmp' to '../../../../../../Users/diaza/Documents/Proyectos/Tag_Racing/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2020.07.15-03.51.48:160][523]LogSlate: Window 'Submit Files' being destroyed
+[2020.07.15-03.51.48:429][523]LogSourceControl: commit successful: [master f139454] Carpeta de mapas
+[2020.07.15-03.51.48:484][523]SourceControl: [master f139454] Carpeta de mapas
+[2020.07.15-03.51.48:484][523]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.07.15-03.51.48:484][523]SourceControl:  create mode 100644 Content/Maps/GolpeEstado.umap
+[2020.07.15-03.51.48:497][523]SourceControl: Commited [master f139454] Carpeta de mapas.
